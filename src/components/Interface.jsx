@@ -67,7 +67,7 @@ const AboutSection = (props) => {
           delay: 1.5,
         }}
       >
-        I'm a Full Stack Developer with Testing expertise
+        I'm a Web Developer
         <br />
         Welcome to my personal portfolio
       </motion.p>
@@ -100,34 +100,34 @@ const skills = [
     level: 90,
   },
   {
-    title: "Testing",
-    level: 90,
-  },
-  {
-    title: "Computer Networking",
+    title: "React",
     level: 80,
   },
   {
-    title: "Django/React",
-    level: 60,
+    title: "Django",
+    level: 80,
   },
   {
-    title: "Virtualization",
-    level: 60,
+    title: "Supabase",
+    level: 80,
+  },
+  {
+    title: "Testing",
+    level: 80,
   },
 ];
 const languages = [
   {
-    title: "🇹🇷 Turkish",
-    level: 100,
+    title: "🇫🇷 French",
+    level: 90,
   },
   {
     title: "🇺🇸 English",
     level: 100,
   },
   {
-    title: "🇫🇷 French",
-    level: 90,
+    title: "🇹🇷 Turkish",
+    level: 100,
   },
 ];
 

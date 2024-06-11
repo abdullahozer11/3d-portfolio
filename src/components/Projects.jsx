@@ -7,12 +7,36 @@ import { atom, useAtom } from "jotai";
 import { useEffect, useRef } from "react";
 
 export const projects = [
-  // {
-  //   title: "Default",
-  //   url: "app_url",
-  //   image: "projects/demo.jpg",
-  //   description: "App Description",
-  // },
+  {
+    title: "SplitFree",
+    url: "https://github.com/split-free/split-free-frontend",
+    image: "projects/splitfree.png",
+    description: "Free to use expense splitter app",
+  },
+  {
+    title: "TimeBomb",
+    url: "https://github.com/abdullahozer11/timebomb",
+    image: "projects/timebomb.png",
+    description: "Terminal timer for linux distros",
+  },
+  {
+    title: "Word Game",
+    url: "https://github.com/split-free/wordGaùe",
+    image: "projects/wordgame.png",
+    description: "Turn cylinders to form maximum amount of words",
+  },
+  {
+    title: "Master Website",
+    url: "https://github.com/split-free/MasterWebsite",
+    image: "projects/master.png",
+    description: "Legacy portfolio website with demo projects",
+  },
+  {
+  title: "Todo App",
+    url: "https://github.com/split-free/taskRecorderReact",
+    image: "projects/todo.png",
+    description: "Todo app with React",
+  },
 ];
 
 const Project = (props) => {

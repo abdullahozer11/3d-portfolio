@@ -119,7 +119,7 @@ const skills = [
 const languages = [
   {
     title: "🇫🇷 French",
-    level: 90,
+    level: 100,
   },
   {
     title: "🇺🇸 English",

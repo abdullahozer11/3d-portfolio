@@ -10,31 +10,31 @@ export const projects = [
   {
     title: "SplitFree",
     url: "https://github.com/split-free/split-free-frontend",
-    image: "/src/assets/splitfree.webp",
+    image: "https://i.ibb.co/WPr1ckf/splitfree.webp",
     description: "Free to use expense splitter app",
   },
   {
     title: "TimeBomb",
     url: "https://github.com/abdullahozer11/timebomb",
-    image: "/src/assets/timebomb.webp",
+    image: "https://i.ibb.co/5MTtCjx/timebomb.webp",
     description: "Terminal timer for linux distros",
   },
   {
     title: "Word Game",
     url: "https://github.com/abdullahozer11/wordGame",
-    image: "/src/assets/words.webp",
+    image: "https://i.ibb.co/jRbQ0Bk/words.webp",
     description: "Turn cylinders to form maximum amount of words",
   },
   {
     title: "Master Website",
     url: "https://github.com/abdullahozer11/MasterWebsite",
-    image: "/src/assets/commerce.webp",
+    image: "https://i.ibb.co/vw9q2Fr/commerce.webp",
     description: "Legacy portfolio website with demo projects",
   },
   {
   title: "Todo App",
     url: "https://github.com/abdullahozer11/taskRecorderReact",
-    image: "/src/assets/todo.webp",
+    image: "https://i.ibb.co/0jTNxv6/todo.webp",
     description: "Todo app with React",
   },
 ];

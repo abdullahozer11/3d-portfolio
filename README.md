@@ -2,6 +2,8 @@
 
 This is my fork of the original portfolio project by Wassim SAMAD. It showcases my work and skills in web development.
 
+<img src="https://i.ibb.co/k0P9bXx/apojean-space.webp" alt="screenshot from the website" width="300px">
+
 ## Table of Contents
 
 - [Installation](#installation)
